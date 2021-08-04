@@ -1,8 +1,6 @@
 # NU-Bootcamp-Data-Science-1
 Team Wildcats Project 1 Repo
 
-# Project_One
-
 ## In this project, we will be using World Happiness Report and Covid-19-API to analyze ...
 
 ### Data Source: 
