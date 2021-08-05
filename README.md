@@ -23,3 +23,8 @@ https://covid-api.mmediagroup.fr/v1/cases
 4. What is the population size of the three regions with the happiest people in the world?
 5. How happy are the different geographical locations and regions of the world? Compare the differences by countries/regions?
 6. What is the relationship between covid cases and happiness?
+7. What is the relationship between the countries with the most confirmed covid deaths and population size? 
+8. What is the relationship between the countries with the most confirmed covid cases to confirmed covid deaths? 
+9. What is the relationship between the countries with the most confirmed covid deaths to confirmed covid cases?
+10. What is the relationship between life expectancy and confirmed covid deaths? 
+11.What is the relationship between GDP per capita and confirmed covid deaths?
