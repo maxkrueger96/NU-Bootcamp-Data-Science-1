@@ -27,4 +27,4 @@ https://covid-api.mmediagroup.fr/v1/cases
 8. What is the relationship between the countries with the most confirmed covid cases to confirmed covid deaths? 
 9. What is the relationship between the countries with the most confirmed covid deaths to confirmed covid cases?
 10. What is the relationship between life expectancy and confirmed covid deaths? 
-11.What is the relationship between GDP per capita and confirmed covid deaths?
+11. What is the relationship between GDP per capita and confirmed covid deaths?
