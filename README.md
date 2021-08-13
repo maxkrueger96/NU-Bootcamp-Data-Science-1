@@ -1,7 +1,7 @@
 # NU-Bootcamp-Data-Science-1
 Team Wildcats Project 1 Repo
 
-<span style="color: blue"> ## In this project, we are diving into the World Happiness Report (2020 and 2021) and Covid-19-API. </span>
+## <span style="color: blue">In this project, we are diving into the World Happiness Report (2020 and 2021) and Covid-19-API. </span>
 
 ### Data Source: 
 - https://github.com/M-Media-Group/Covid-19-API
